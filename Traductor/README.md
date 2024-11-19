@@ -21,3 +21,4 @@ idiomas.</p>
 <h5 style="text-align: center;"><strong><span style="color: rgb(0, 0, 0);">Interfaz grafica</span></strong></h5>
 
 ![image](https://github.com/user-attachments/assets/442984bf-136d-49d9-86a7-5fa742e3ef87)
+
