@@ -12,3 +12,4 @@
     <li>Si falla una pregunta se debe mostrar los puntos acumulados.</li>
     <li>Si acierta todas las preguntas debe mostrar un mensaje indicando que ha ganado el juego.</li>
 </ol>
+
